@@ -1,0 +1,26 @@
+{
+  "name": "portfolio-generator",
+  "version": "1.0.0",
+  "description": "Portfolio Generator Built with Node JS and Javascript",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bkfleet1/portfolio-generator.git"
+  },
+  "keywords": [
+    "portfolio",
+    "generator"
+  ],
+  "author": "Brad Kelley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bkfleet1/portfolio-generator/issues"
+  },
+  "homepage": "https://github.com/bkfleet1/portfolio-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}

@@ -8,18 +8,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bkfleet1/portfolio-generator.git"
+    "url": "git+https://github.com/unis434/portfolio-generator.git"
   },
   "keywords": [
     "portfolio",
     "generator"
   ],
-  "author": "Brad Kelley",
+  "author": "Unisa Kamara",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bkfleet1/portfolio-generator/issues"
+    "url": "https://github.com/unis434/portfolio-generator/issues"
   },
-  "homepage": "https://github.com/bkfleet1/portfolio-generator#readme",
+  "homepage": "https://github.com/unis434/portfolio-generator#readme",
   "dependencies": {
     "inquirer": "^8.2.0"
   }

@@ -1,43 +1,43 @@
 module.exports = {
-  name: 'Lernantino',
-  github: 'lernantino',
+  name: 'Unisa Kamara',
+  github: 'unis434',
   confirmAbout: true,
   about:
-    'Duis consectetur nunc nunc. Morbi finibus non sapien nec pharetra. Fusce nec dignissim orci, ac interdum ipsum. Morbi mattis justo sed commodo pellentesque. Nulla eget fringilla nulla. Integer gravida magna mi, id efficitur metus tempus et. Nam fringilla elit dapibus pellentesque cursus. Proin pretium, velit eget ultricies pulvinar, sem ex eleifend elit, nec pretium ante magna ac nibh. Nulla pulvinar turpis non magna porttitor porttitor. Morbi pellentesque sed nibh eu gravida. Fusce rhoncus, turpis non ullamcorper tristique, enim nulla vehicula ligula, nec gravida augue elit nec mauris. Donec imperdiet justo et auctor vehicula. Ut eget dapibus metus. Nulla facilisi. Integer in porttitor eros.',
+    'An enthusiastic, dedicated and a versatile young person with an outstanding academic background and an excellent attitude to work. Highly motivated!',
   projects: [
     {
       name: 'Run Buddy',
       description:
-        'Duis consectetur nunc nunc. Morbi finibus non sapien nec pharetra. Fusce nec dignissim orci, ac interdum ipsum. Morbi mattis justo sed commodo pellentesque. Nulla eget fringilla nulla. Integer gravida magna mi, id efficitur metus tempus et. Nam fringilla elit dapibus pellentesque cursus.',
+        'A gym website to register and keep fit',
       languages: ['HTML', 'CSS'],
-      link: 'https://github.com/lernantino/run-buddy',
+      link: 'https://github.com/Unis434/Run_Buddy_Bootstrap',
       feature: true,
       confirmAddProject: true
     },
     {
       name: 'Taskinator',
       description:
-        'Duis consectetur nunc nunc. Morbi finibus non sapien nec pharetra. Fusce nec dignissim orci, ac interdum ipsum. Morbi mattis justo sed commodo pellentesque. Nulla eget fringilla nulla. Integer gravida magna mi, id efficitur metus tempus et. Nam fringilla elit dapibus pellentesque cursus.',
+        'A task management platform to keep tabs on all your tasks from "To Do", "In Progress" and finally "Completed"',
       languages: ['JavaScript', 'HTML', 'CSS'],
-      link: 'https://github.com/lernantino/taskinator',
+      link: 'https://github.com/Unis434/Taskinator,
       feature: true,
       confirmAddProject: true
     },
     {
       name: 'Taskmaster Pro',
       description:
-        'Duis consectetur nunc nunc. Morbi finibus non sapien nec pharetra. Fusce nec dignissim orci, ac interdum ipsum. Morbi mattis justo sed commodo pellentesque. Nulla eget fringilla nulla. Integer gravida magna mi, id efficitur metus tempus et. Nam fringilla elit dapibus pellentesque cursus.',
+        'Plan your long term goals and track your daily tasks with this handy task manager! You can earn valuable feeling of self relief for each goal and task you complete!',
       languages: ['JavaScript', 'jQuery', 'CSS', 'HTML', 'Bootstrap'],
-      link: 'https://github.com/lernantino/taskmaster-pro',
+      link: 'https://github.com/Unis434/Taskmaster_Pro',
       feature: false,
       confirmAddProject: true
     },
     {
       name: 'Robot Gladiators',
       description:
-        'Duis consectetur nunc nunc. Morbi finibus non sapien nec pharetra. Fusce nec dignissim orci, ac interdum ipsum. Morbi mattis justo sed commodo pellentesque.',
+        'I made a Robot Gladiators Game.',
       languages: ['JavaScript'],
-      link: 'https://github.com/lernantino/robot-gladiators',
+      link: 'https://github.com/Unis434/Robot-Gladiators',
       feature: false,
       confirmAddProject: false
     }

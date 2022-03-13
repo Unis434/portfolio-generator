@@ -1,10 +1,11 @@
-const inquirer = require('inquirer');
-const generatePage = require('./src/page-template');
-const { writeFile, copyFile } = require('./utils/generate-site.js');
+var PORT = process.env.PORT || 5000;
+import { prompt } from 'inquirer';
+import generatePage from './src/page-template';
+import { writeFile, copyFile } from './utils/generate-site.js';
 
 
 const promptUser = () => {
-  return inquirer.prompt([
+  return prompt([
     {
       type: 'input',
       name: 'name',
@@ -65,7 +66,7 @@ Add a New Project
     portfolioData.projects = [];
   }
 
-  return inquirer.prompt([
+  return prompt([
     {
       type: 'input',
       name: 'name',
